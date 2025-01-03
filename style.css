@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#map-container {
+  margin: auto;
+  width: 80%;
+}
+
+#image-display img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 20px;
+}

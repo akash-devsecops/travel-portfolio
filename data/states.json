@@ -1,0 +1,34 @@
+{
+  "states": [
+    {
+      "name": "California",
+      "abbreviation": "CA",
+      "image": "images/state1.png",
+      "description": "Visited San Francisco, Yosemite, and Los Angeles."
+    },
+    {
+      "name": "Texas",
+      "abbreviation": "TX",
+      "image": "images/state1.png",
+      "description": "Explored Austin, Houston, and Dallas."
+    },
+    {
+      "name": "New York",
+      "abbreviation": "NY",
+      "image": "images/state1.png",
+      "description": "Enjoyed Times Square, Niagara Falls, and Central Park."
+    },
+    {
+      "name": "Florida",
+      "abbreviation": "FL",
+      "image": "images/state1.png",
+      "description": "Relaxed in Miami and visited Disney World."
+    },
+    {
+      "name": "Colorado",
+      "abbreviation": "CO",
+      "image": "images/state1.png",
+      "description": "Hiked the Rocky Mountains and explored Denver."
+    }
+  ]
+}
